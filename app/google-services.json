@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049863283925",
+    "firebase_url": "https://androidlab12bike-535c3-default-rtdb.firebaseio.com",
+    "project_id": "androidlab12bike-535c3",
+    "storage_bucket": "androidlab12bike-535c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049863283925:android:f83495abe22462551eee5c",
+        "android_client_info": {
+          "package_name": "com.example.androidlab12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049863283925-ch7gipdq8blv65o9r49f5rq9tmoi7p70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcPFvHLSN6Fli0giB7IhV4nemKTicgIjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049863283925-ch7gipdq8blv65o9r49f5rq9tmoi7p70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
